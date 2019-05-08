@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	/* JS goes here */
+	/* JS goes heres */
 	
 	/* Navigation burger onclick side navigation show */
 	$('.burger-container').on('click', function() {
